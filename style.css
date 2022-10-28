@@ -1,0 +1,35 @@
+
+		.cointainer{
+			width: 1700px;
+			height: 3500px;
+			background: #e5f3ff;
+			margin: 0 auto;
+		}
+		.boshi{
+			width: 1300px;
+			height: 3000px;
+			border: 5px solid white;
+			margin: 0 auto;
+			background: white;
+		}
+		.qisim1{
+			width: 1300px;
+			height: 200px;
+			border: 0.5px solid white;
+		}	
+		/*
+		.qisimdiv1{
+			width: 550px;
+			height: 199px;
+			
+		}.qisimdiv2{
+			width: 400px;
+			height: 199px;
+			border: .5px solid white;
+			margin-right: 100px;
+		}*/
+
+		
+
+
+	
